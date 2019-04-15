@@ -33,4 +33,5 @@
 * [第三章](python系统编程/README.md)
     * [第1节：多进程多线程编程](python系统编程/多进程多线程编程.md)
     * [第2节：线程](python系统编程/线程.md)
+    * [第3节：队列 queue](python系统编程/队列 queue.md)
 
